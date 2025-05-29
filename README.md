@@ -1,4 +1,4 @@
-# Firebase Studio
+# Routinely
 
 This project is a web application built with Next.js.
 
